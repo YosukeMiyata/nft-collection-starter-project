@@ -10,7 +10,7 @@ import twitterLogo from "./assets/twitter-logo.svg";
 // Constantsを宣言する: constとは値書き換えを禁止した変数を宣言する方法です。
 const TWITTER_HANDLE = "juilliard_inst";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = "https://testnets.opensea.io/account";
+const OPENSEA_LINK = "https://testnets.opensea.io/0x4833C2fB6F00787c7F5f60a7F1a8aD9e191648C8";
 const MAX_TOTAL_MINT_COUNT = 15;
 // 0x4 は　Rinkeby の ID です。
 const EthereumMainNetworkChainId = "0x1";
